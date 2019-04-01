@@ -1,0 +1,23 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=56497:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\kipst\IdeaProjects\Starship'd\out\production\Starship'd Main
+Reliant:   Hull: 1117   Shield: 2953   Beam: 2931   Torpedoes: 15
+Enterprise:   Hull: 1198   Shield: 3154   Beam: 2937   Torpedoes: 18
+Yorktown:   Hull: 1200   Shield: 2903   Beam: 2636   Torpedoes: 14
+Saratoga:   Hull: 1088   Shield: 3322   Beam: 2868   Torpedoes: 20
+Voyager:   Hull: 1151   Shield: 2660   Beam: 2592   Torpedoes: 10
+Discovery:   Hull: 1777   Shield: 2428   Beam: 2854   Torpedoes: 29
+Constitution:   Hull: 1921   Shield: 2045   Beam: 3338   Torpedoes: 22
+Constellation:   Hull: 1852   Shield: 2059   Beam: 3264   Torpedoes: 30
+Grissom:   Hull: 1598   Shield: 2449   Beam: 3140   Torpedoes: 25
+Defiant:   Hull: 1766   Shield: 2125   Beam: 3233   Torpedoes: 22
+Intrepid:   Hull: 2215   Shield: 2111   Beam: 3250   Torpedoes: 22
+Britaan:   Hull: 2335   Shield: 2325   Beam: 3406   Torpedoes: 30
+Stargazer:   Hull: 2051   Shield: 2377   Beam: 3447   Torpedoes: 23
+Yamato:   Hull: 2213   Shield: 2197   Beam: 3653   Torpedoes: 24
+Galaxy:   Hull: 2415   Shield: 2464   Beam: 3687   Torpedoes: 24
+Ambassador:   Hull: 1819   Shield: 2394   Beam: 2941   Torpedoes: 21
+Nimitz:   Hull: 1950   Shield: 2106   Beam: 3445   Torpedoes: 28
+Equinox:   Hull: 1719   Shield: 2015   Beam: 2775   Torpedoes: 27
+Relativity:   Hull: 1587   Shield: 2039   Beam: 3070   Torpedoes: 20
+Challenger:   Hull: 1938   Shield: 2104   Beam: 2989   Torpedoes: 29
+
+Process finished with exit code 0
